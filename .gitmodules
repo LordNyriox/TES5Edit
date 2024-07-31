@@ -4,12 +4,11 @@
 	branch = xEdit-4.1.x
 [submodule "vcl-styles-utils"]
 	path = External/vcl-styles-utils
-	url = https://github.com/ElminsterAU/vcl-styles-utils.git
+	url = https://github.com/LordNyriox/vcl-styles-utils.git
 	branch = xEdit-4.1.x
 [submodule "VirtualTrees"]
 	path = External/VirtualTrees
-	url = https://github.com/ElminsterAU/Virtual-TreeView.git
-	branch = xEdit-4.1.x
+	url = https://github.com/JAM-Software/Virtual-TreeView.git
 [submodule "jcl"]
 	path = External/jcl
 	url = https://github.com/ElminsterAU/jcl.git
@@ -20,15 +19,14 @@
 	branch = xEdit-4.1.x
 [submodule "DWScript"]
 	path = External/DWScript
-	url = https://github.com/ElminsterAU/DWScript.git
-	branch = xEdit-4.1.x
+	url = https://github.com/EricGrange/DWScript.git
 [submodule "JsonDataObjects"]
 	path = External/JsonDataObjects
-	url = https://github.com/ElminsterAU/JsonDataObjects.git
+	url = https://github.com/LordNyriox/JsonDataObjects.git
 	branch = xEdit-4.1.x
 [submodule "imaginglib"]
 	path = External/ImagingLib
-	url = https://github.com/ElminsterAU/imaginglib.git
+	url = https://github.com/LordNyriox/imaginglib.git
 	branch = xEdit-4.1.x
 [submodule "LZ4Delphi"]
 	path = External/lz4
@@ -40,8 +38,7 @@
 	branch = xEdit-4.1.x
 [submodule "External/FileContainer"]
 	path = External/FileContainer
-	url = https://github.com/ElminsterAU/FileContainer.git
-	branch = xEdit-4.1.x
+	url = https://github.com/LordNyriox/FileContainer.git
 [submodule "External/SynEdit"]
 	path = External/SynEdit
 	url = https://github.com/ElminsterAU/SynEdit.git
